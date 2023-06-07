@@ -23,4 +23,4 @@ Hai molte scelte, tra cui:
 
 [- La mia galleria](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/blob/main/la%20mia%20galleria.md)
 
-Puoi continuare con il tuo progetto. [OK, ho capito](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/discussions/4)
+Puoi continuare con il tuo progetto. [OK, ho capito](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/discussions/3)
