@@ -1,4 +1,4 @@
-[<- Torna indietro]
+[<- Torna indietro]()
 
 Qui saranno visualizzati tutti i sprite che hai disegnato tu.
 
