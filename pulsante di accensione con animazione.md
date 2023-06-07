@@ -22,3 +22,5 @@ Hai molte scelte, tra cui:
 [- Disegnare](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/blob/main/disegnare%20sprite.md)
 
 [- La mia galleria](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/blob/main/la%20mia%20galleria.md)
+
+Puoi continuare con il tuo progetto. [OK, ho capito](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/discussions/4)
