@@ -1,4 +1,4 @@
-[<- Torna indietro]()
+[<- Torna indietro](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/blob/main/pulsante%20di%20accensione%20con%20animazione.md)
 ![image](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/assets/108028311/0427ef1a-6522-4f3f-8ce1-bacab72069b7)
 ![image](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/assets/108028311/e2be4ffa-e04f-4ed9-9002-c2cb5627b585)
 ![image](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/assets/108028311/63ecc0ea-49be-4268-b39f-06d8b627c162)
