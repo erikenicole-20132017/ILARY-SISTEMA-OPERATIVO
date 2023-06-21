@@ -7,4 +7,4 @@ Benvenuta, Ilary. Sulla pagina iniziale ci sono scritti alcuni consigli da segui
 https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/discussions/1
 ISTRUZIONI: Leggi i passaggi nella pagina Web, poi seleziona la tua scelta, quindi clicca su Votare. Appena ricaricata la pagina, premi il pulsante AVANTI e ripeti il passaggio finchè il sondaggio non è finito, quindi puoi tornare al tuo progetto. 
 
-Ultimo aggiornato: June 6, 2023 10:09PM
+Ultimo aggiornato: June 6, 2023 20:09:22 UTC
