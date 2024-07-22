@@ -1,5 +1,4 @@
-[<- Torna indietro](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/blob/main/pulsante%20di%20accensione%20con%20animazione.md)
-
+[<- Torna indietro](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/edit/main/pulsante%20di%20accensione%20con%20animazione.md#hai-molte-scelte-tra-cui)
 
 Qui vengono visualizzate tutte le immagini vettoriali (SVG) delle schede 
 ![image](https://github.com/erikenicole-20132017/ILARY-SISTEMA-OPERATIVO/assets/108028311/adf96ab1-6cc9-4905-9380-b0e4d40a2d98)
